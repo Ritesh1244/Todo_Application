@@ -7,5 +7,4 @@ it has following feature -
 - Anyone can can sign in
 - Anyone mark a todo as done
 
-// intialize a node project
-// put a package.json
+
